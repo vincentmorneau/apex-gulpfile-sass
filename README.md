@@ -7,8 +7,8 @@ If you don't want Sass handling, look at my basic Gulpfile: https://github.com/v
 
 #Features
 - SCSS (parsing)
-- CSS (concatenation, minification, autoprefixer)
-- JS (concatenation, minification)
+- CSS (concatenation, minification, autoprefixer, sourcemaps)
+- JS (concatenation, minification, sourcemaps)
 - IMG (optimization)
 - Vendor files (copy)
 - Output of minified and un-minified JS & CSS
