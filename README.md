@@ -6,7 +6,7 @@ See http://vmorneau.me/apex-gulpfile-sass/ for more info.
 If you don't want Sass handling, look at my basic Gulpfile: https://github.com/vincentmorneau/basic-gulpfile
 
 #Changelog
-##1.1.0 Beta 3
+##1.1.0
 - Updated to gulp-sass 2.0.x
 	+ Which updates node-sass to 3.0.0
 	+ Fix Source maps now work as expected with Autoprefixer
