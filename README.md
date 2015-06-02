@@ -17,7 +17,7 @@ If you don't want Sass handling, look at my basic Gulpfile: https://github.com/v
 - Updated to gulp-autoprefixer 2.3.x
 - Updated to gulp-minify-css 1.1.x
 - Updated to run-sequence 1.1.x
-- Updated to gulp 1.2.x
+- Updated to gulp 3.9.x
 - Updated to jshint-stylish 2.0.x
 - Updated to gulp-sourcemaps 1.5.x
 
