@@ -6,6 +6,21 @@ See http://vmorneau.me/apex-gulpfile-sass/ for more info.
 If you don't want Sass handling, look at my basic Gulpfile: https://github.com/vincentmorneau/basic-gulpfile
 
 #Changelog
+##1.2.0
+- Updated to gulp-uglify 1.2.x
+- Updated to gulp-rename 1.2.x
+- Updated to gulp-plumber 1.0.x
+- Updated to gulp-load-plugins 0.10.x
+- Updated to gulp-del 1.2.x
+- Updated to gulp-util 3.0.x
+- Updated to gulp-jshint 1.11.x
+- Updated to gulp-autoprefixer 2.3.x
+- Updated to gulp-minify-css 1.1.x
+- Updated to run-sequence 1.1.x
+- Updated to gulp 1.2.x
+- Updated to jshint-stylish 2.0.x
+- Updated to gulp-sourcemaps 1.5.x
+
 ##1.1.0
 - Updated to gulp-sass 2.0.x
 	+ Which updates node-sass to 3.0.0
