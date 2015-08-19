@@ -6,6 +6,13 @@ See http://vmorneau.me/apex-gulpfile-sass/ for more info.
 If you don't want Sass handling, look at my basic Gulpfile: https://github.com/vincentmorneau/basic-gulpfile
 
 #Changelog
+##1.3.0
+- Updated to gulp-concat 		2.6.x
+- Updated to gulp-size          2.0.x
+- Updated to gulp-minify-css    1.2.x
+- Updated to gulp-imagemin      2.3.x
+- Updated to gulp-load-plugins	1.0.x-rc.1
+
 ##1.2.0
 - Updated to gulp-uglify 1.2.x
 - Updated to gulp-rename 1.2.x
