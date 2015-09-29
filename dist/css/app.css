@@ -4,38 +4,38 @@
 .mybutton1 {
   background-color: #64b5f6;
   color: #fff;
-  border: 3px solid #325a7b;
+  border: 3px solid #325b7b;
   border-radius: 5px;
   padding: 1em 2em;
   margin-bottom: 3em;
   display: inline-block; }
   .mybutton1:hover {
-    background-color: #4b87b8;
-    border-color: #192d3d; }
+    background-color: #4b88b9;
+    border-color: #192d3e; }
 
 .mybutton2 {
   background-color: #e57373;
   color: #fff;
-  border: 3px solid #723939;
+  border: 3px solid #733a3a;
   border-radius: 5px;
   padding: 1em 2em;
   margin-bottom: 3em;
   display: inline-block; }
   .mybutton2:hover {
-    background-color: #ab5656;
-    border-color: #391c1c; }
+    background-color: #ac5656;
+    border-color: #391d1d; }
 
 .mybutton3 {
   background-color: #66bb6a;
   color: #fff;
-  border: 3px solid #335d35;
+  border: 3px solid #335e35;
   border-radius: 5px;
   padding: 1em 2em;
   margin-bottom: 3em;
   display: inline-block; }
   .mybutton3:hover {
-    background-color: #4c8c4f;
-    border-color: #192e1a; }
+    background-color: #4d8c50;
+    border-color: #1a2f1b; }
 
 p.responsive {
   font-size: 16px; }

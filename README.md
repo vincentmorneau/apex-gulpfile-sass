@@ -6,6 +6,15 @@ See http://vmorneau.me/apex-gulpfile-sass/ for more info.
 If you don't want Sass handling, look at my basic Gulpfile: https://github.com/vincentmorneau/basic-gulpfile
 
 #Changelog
+##1.4.0
+- Updated dependencies
+- Changed terminology
+    - `client` to `src`
+    - `build` to `dist`
+- Removed image minification package
+    - was not generic enough for this project
+- Removed assets intermediate folder
+
 ##1.3.0
 - Updated to gulp-concat 		2.6.x
 - Updated to gulp-size          2.0.x
@@ -55,7 +64,7 @@ If you don't want Sass handling, look at my basic Gulpfile: https://github.com/v
 #How to use
 From the root folder, You can create, edit or delete any files in:
 ```
-|-/client
+|-/src
 	|-/assets
 		|-scss
 		|-img
